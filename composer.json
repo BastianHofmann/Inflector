@@ -1,0 +1,22 @@
+{
+    "name": "bastian/pluralizer",
+    "description": "A comprehensive package for converting singular nouns to their plural and back.",
+    "autoload": {
+        "psr-4": {
+            "Pluralizer\\": "src/Pluralizer"
+        }
+    },
+    "require-dev": {
+        "phpspec/phpspec": "2.0.x-dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bastian Hofmann",
+            "email": "bastianhofmann@me.com"
+        }
+    ],
+    "require": {
+
+    }
+}
