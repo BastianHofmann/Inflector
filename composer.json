@@ -1,5 +1,5 @@
 {
-    "name": "bastian/pluralizer",
+    "name": "bastian/inflector",
     "description": "A comprehensive package for converting singular nouns to their plural and back.",
     "autoload": {
         "psr-4": {
