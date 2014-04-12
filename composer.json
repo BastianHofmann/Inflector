@@ -1,6 +1,7 @@
 {
     "name": "bastian/inflector",
     "description": "A comprehensive package for converting singular nouns to their plural and back.",
+    "keywords": ["inflector", "inflection", "singular", "plural", "nouns"],
     "autoload": {
         "psr-4": {
             "Inflector\\": "src/Inflector"
