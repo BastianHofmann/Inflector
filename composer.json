@@ -3,7 +3,7 @@
     "description": "A comprehensive package for converting singular nouns to their plural and back.",
     "autoload": {
         "psr-4": {
-            "Pluralizer\\": "src/Pluralizer"
+            "Inflector\\": "src/Inflector"
         }
     },
     "require-dev": {
